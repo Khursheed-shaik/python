@@ -1,0 +1,10 @@
+a=input()
+x,y,z=a.split(" ")
+sum=int(x)+int(y)+int(z)
+print("sum of inputs:",sum,sep="")
+
+
+
+//output:
+10 20 30
+sum of inputs:60

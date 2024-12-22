@@ -1,0 +1,10 @@
+a,b=input().split(",")
+x=int(a)
+y=int(b)
+print("Addition:",x+y,"Subtraction:",x-y,"Multiplication:",x*y,"Division:",x/y)
+
+
+//output:
+
+20,10
+Addition: 30 Subtraction: 10 Multiplication: 200 Division: 2.0

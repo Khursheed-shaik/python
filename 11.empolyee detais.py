@@ -1,0 +1,12 @@
+name = input("Enter employee's name: ")
+employee_id = input("Enter employee ID: ")
+department = input("Enter department: ")
+designation = input("Enter designation: ")
+salary = float(input("Enter salary: "))
+
+print("\nEmployee Details:")
+print("Name:",name)
+print("Employee ID:", employee_id)
+print("Department:", department)
+print("Designation:", designation)
+print("Salary:", salary)
